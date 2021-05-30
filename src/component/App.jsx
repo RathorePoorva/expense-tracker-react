@@ -1,6 +1,5 @@
 import React from "react";
-import ExpenseItem from "./ExpenseItem";
-import ExpenseList from "./ExpenseList";
+import ExpenseList from "./Expenses/ExpenseList";
 
 const App = () => {
   const expense = [
